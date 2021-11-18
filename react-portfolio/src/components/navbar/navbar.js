@@ -6,16 +6,16 @@ function Navbar(props) {
         <div>
             <nav>
                 <ul>
-                    <a href="#"><li onClick={() => props.handlePageChange("About")}>
+                    <a href="#"><li onClick={() => props.pageChange("About")}>
                         About
                     </li></a>
-                    <a href="#"><li onClick={() => props.handlePageChange("Projects")}>
+                    <a href="#"><li onClick={() => props.pageChange("Projects")}>
                         Projects
                     </li></a>
-                    <a href="#"><li onClick={() => props.handlePageChange("Contact")}>
+                    <a href="#"><li onClick={() => props.pageChange("Contact")}>
                         Contact
                     </li></a>
-                    <a href="#"><li onClick={() => props.handlePageChange("Resume")}>
+                    <a href="#"><li onClick={() => props.pageChange("Resume")}>
                         Resume
                     </li></a>
                 </ul>
