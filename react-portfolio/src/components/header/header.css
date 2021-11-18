@@ -1,0 +1,11 @@
+.headerContent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 75px;
+  background-color: royalblue;
+}
+.headerContent h2 {
+  margin-left: 20px;
+  color: aliceblue;
+}

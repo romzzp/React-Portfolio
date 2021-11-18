@@ -27,7 +27,7 @@ function Header() {
 
     return (
         <div>
-            <div>
+            <div class="headerContent">
                 <h2>Welcome</h2>
                 <NavBar currentPage={currentPage} pageChange={pageChange} />
             </div>
