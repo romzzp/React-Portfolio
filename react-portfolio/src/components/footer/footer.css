@@ -1,0 +1,6 @@
+.footerContent {
+  position: sticky;
+  background-color: royalblue;
+  width: 100vw;
+  height: 10vh;
+}

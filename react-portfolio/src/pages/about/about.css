@@ -1,0 +1,17 @@
+.aboutContent {
+  height: 80vh;
+  width: 100vw;
+  display: inline-block;
+}
+.aboutContent img {
+  float: right;
+  width: 40vw;
+}
+.aboutMe {
+  display: inline-block;
+  flex-direction: column;
+  width: 50vw;
+  text-align: center;
+  padding-top: 200px;
+  padding-left: 50px;
+}

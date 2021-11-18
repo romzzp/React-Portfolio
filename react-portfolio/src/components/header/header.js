@@ -5,6 +5,7 @@ import About from '../../pages/about/about';
 import Contact from '../../pages/contact/contact';
 import Projects from '../../pages/projects/projects';
 import Resume from '../../pages/resume/resume';
+import images from '../../assets/';
 
 
 
@@ -26,7 +27,7 @@ function Header() {
     };
 
     return (
-        <div>
+        <div class="background">
             <div class="headerContent">
                 <h2>Welcome</h2>
                 <NavBar currentPage={currentPage} pageChange={pageChange} />
