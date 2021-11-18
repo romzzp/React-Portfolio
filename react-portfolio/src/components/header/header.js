@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React, { useState } from 'react';
 import './header.css';
 import NavBar from '../navbar/navbar';
@@ -5,7 +6,7 @@ import About from '../../pages/about/about';
 import Contact from '../../pages/contact/contact';
 import Projects from '../../pages/projects/projects';
 import Resume from '../../pages/resume/resume';
-import images from '../../assets/';
+
 
 
 

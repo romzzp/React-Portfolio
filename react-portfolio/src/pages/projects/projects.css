@@ -10,6 +10,7 @@
 }
 .card {
   transition: 200ms;
+  margin-bottom: 20px;
 }
 .divHeader {
   color: black;
