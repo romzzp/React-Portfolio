@@ -4,12 +4,13 @@
   justify-content: space-between;
   height: 10vh;
   width: 100vw;
-  background-color: royalblue;
+  background-color: #98c1d9;
+  font-family: cursive;
 }
 .headerContent h2 {
   margin-left: 20px;
-  color: aliceblue;
+  color: #3d5a80;
 }
 .background {
-  background-color: cornflowerblue;
+  background-color: #293241;
 }

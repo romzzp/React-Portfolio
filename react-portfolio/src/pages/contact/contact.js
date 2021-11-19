@@ -8,10 +8,10 @@ function Contact() {
     return (
         <div class="aboutContent">
             <img src={images.mine} alt="profile pic" />
-            <div class="aboutMe">
-                <h1>Contact me:</h1>
-                <p>If you have any questions and need to reach me, please reach me at romzz.patel@gmail.com
-                    Or you can cantact me on my Github: github.com/romzzp
+            <div class="contact">
+                <h1>Contact</h1>
+                <p>If you have any questions and need to reach me, please reach me at <span>romzz.patel@gmail.com</span>.<br />
+                    Or you can cantact me on my <a href="github.com/romzzp">Github</a>
                 </p>
             </div>
         </div>

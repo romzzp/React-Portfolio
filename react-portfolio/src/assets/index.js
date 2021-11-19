@@ -8,6 +8,8 @@ import trailr from './trailr.png';
 import tripExpensePlanner from './TripExpensePlanner.png';
 import vacationPlanner from './VacationPlanner.gif';
 import background from './background.jpg';
+import github from './github.png';
+import linkedin from './linkedin.png';
 
 const images = {
     mine,
@@ -20,6 +22,8 @@ const images = {
     tripExpensePlanner,
     vacationPlanner,
     background,
+    github,
+    linkedin,
 };
 
 export default images;
