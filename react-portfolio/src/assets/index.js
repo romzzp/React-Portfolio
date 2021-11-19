@@ -10,6 +10,8 @@ import vacationPlanner from './VacationPlanner.gif';
 import background from './background.jpg';
 import github from './github.png';
 import linkedin from './linkedin.png';
+import fitnesstracker from './Fitness-Tracker.gif';
+import budgetTracker from './Budget-tracker.gif';
 
 const images = {
     mine,
@@ -24,6 +26,8 @@ const images = {
     background,
     github,
     linkedin,
+    fitnesstracker,
+    budgetTracker,
 };
 
 export default images;

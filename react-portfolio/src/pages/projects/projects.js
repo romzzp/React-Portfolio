@@ -21,9 +21,24 @@ function Projects() {
                         height="320" alt="html image" /></a>
                 </div>
                 <div class="card">
+                    <p class="divHeader">Note Taker</p>
+                    <a href="https://github.com/romzzp/Note-Taker"><img src={images.noteTaker} width="480" height="320"
+                        alt="javascript image" /></a>
+                </div>
+                <div class="card">
+                    <p class="divHeader">Budget Tracker</p>
+                    <a href="https://github.com/romzzp/Offline-Budget-Tracker"><img src={images.budgetTracker} width="480" height="320"
+                        alt="javascript image" /></a>
+                </div>
+                <div class="card">
                     <p class="divHeader">Day PLanner</p>
                     <a href="https://romzzp.github.io/DayPlanner/"><img src={images.dayPlanner} width="480" height="320"
                         alt="html image" /></a>
+                </div>
+                <div class="card">
+                    <p class="divHeader">Fitness Tracker</p>
+                    <a href="https://github.com/romzzp/Fitness-Tracker"><img src={images.fitnesstracker} width="480" height="320"
+                        alt="javascript image" /></a>
                 </div>
                 <div class="card">
                     <p class="divHeader">Password Generator</p>
@@ -45,11 +60,9 @@ function Projects() {
                     <a href="https://github.com/romzzp/EmployeeTeamBuilder"><img src={images.employeeTeamBuillder} width="480"
                         height="320" alt="javascript image" /></a>
                 </div>
-                <div class="card">
-                    <p class="divHeader">Note Taker</p>
-                    <a href="https://github.com/romzzp/Note-Taker"><img src={images.noteTaker} width="480" height="320"
-                        alt="javascript image" /></a>
-                </div>
+
+
+
             </div>
         </div>
     )
