@@ -21,11 +21,11 @@
 }
 .projects {
   min-height: 80vh;
-  background-color: #ee6c4d;
+  background-color: #3d5a80;
 }
 .projects h1 {
   text-align: center;
-  color: #3d5a80;
+  color: #ee6c4d;
 }
 .card:hover {
   box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);

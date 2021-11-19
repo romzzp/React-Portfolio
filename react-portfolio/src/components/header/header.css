@@ -10,7 +10,8 @@
 .headerContent h2 {
   margin-left: 20px;
   color: #3d5a80;
+  font-size: 30px;
 }
 .background {
-  background-color: #293241;
+  background-color: #3d5a80;
 }
